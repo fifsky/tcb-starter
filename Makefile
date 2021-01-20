@@ -1,0 +1,2 @@
+deploy:
+	tcb framework deploy
